@@ -1,0 +1,25 @@
+{
+  "name": "blog-server-424ngel",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11381953&assignment_repo_type=AssignmentRepo)\r # PROJECT: Blog Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burlingtoncodeacademy-students/blog-server-424ngel.git"
+  },
+  "author": "Angelina AE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burlingtoncodeacademy-students/blog-server-424ngel/issues"
+  },
+  "homepage": "https://github.com/burlingtoncodeacademy-students/blog-server-424ngel#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.22"
+  }
+}
